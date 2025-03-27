@@ -1,0 +1,14 @@
+{
+  "name": "github-user-activity-cli",
+  "version": "1.0.0",
+  "description": "Projeto de Backend do site Roadmap.sh - GitHub User Activity",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node cli.js"
+  },
+  "bin": {
+    "github-activity": "cli.cmd"
+  },
+  "author": "",
+  "license": "ISC"
+}
